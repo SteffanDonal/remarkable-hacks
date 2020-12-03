@@ -55,8 +55,8 @@ Note: the reMarkable 2 does not have buttons
 - Gestures (swipe gestures work in a small area under the "toggle menu" icon)
     - left button (or right button for lefthanders) *or* swipe up toggles eraser
     - right button (or left button for lefthanders) *or* swipe down toggles last tool
-    - long press left button (or right button for lefthanders) or swipe left to undo
-    - swipe right to redo
+    - long press left button (or right button for lefthanders) or swipe left to undo (top-middle on rM2)
+    - swipe right to redo (top-middle on rM2)
 
 #### Reading Mode
 - Enter: home & right buttons simultaneously *or* tap M in the side-menu "Document Menu" (bottommost)
@@ -201,6 +201,7 @@ You can rename bookmarks by long-pressing them.
  - Long-press upper right corner to rename bookmark of current page.
  - **[BEST]** Long-press middle button to open Recent files list
  - 2 finger swipe down to switch to the previous document
+ - On rM2, swipe left/right at the top of the document, in the middle, for undo/redo.
 
 ### In Normal (default) Mode
 
